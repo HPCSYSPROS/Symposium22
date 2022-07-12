@@ -1,5 +1,3 @@
-= Symposium22
-
 A reminder that submissions for our workshop at SC22 this year in Dallas will close on August 4th.
 
 Join our Slack! https://sighpc-syspros.org/slack
