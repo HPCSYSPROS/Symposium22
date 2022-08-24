@@ -6,12 +6,12 @@
 
 
 ### [System Administration for regulated research data and workflows](https://github.com/HPCSYSPROS/Symposium22/blob/main/System_administration_for_regulated_research_data_and_workflows/Deumens-PEARC22-Cybersecurity-talk.pptx)
-** Presented by:** Eric Deumens, University of Florida
+**Presented by:** Eric Deumens, University of Florida
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020138.svg)](https://doi.org/10.5281/zenodo.7020138)
 
 ### [Data Center Design - From SP to DLC](https://github.com/HPCSYSPROS/Symposium22/blob/main/Data_Center_Design-from_SP_to_DLC/PEARC%2022%20DC%20talk.pdf)
-** Presented by:** Patrick Finnegan, Purdue University
+**Presented by:** Patrick Finnegan, Purdue University
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020134.svg)](https://doi.org/10.5281/zenodo.7020134)
 
